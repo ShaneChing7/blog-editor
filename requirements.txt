@@ -1,0 +1,4 @@
+PySide6==6.6.1 
+Markdown~=3.7
+PyYAML~=6.0
+Pillow~=10.1.0
